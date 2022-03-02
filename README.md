@@ -11,4 +11,5 @@ I develop software, build technical communities, create content and love meeting
 
 [![Chirag's GitHub Stats](https://github-readme-stats.vercel.app/api?username=chirag-madlani&hide=issues&count_private=true&show_icons=true&theme=calm)](https://github.com/vermakhushboo/github-readme-stats)
 <hr />
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chirag-madlani&layout=compact&theme=calm)](https://github.com/vermakhushboo/github-readme-stats)
